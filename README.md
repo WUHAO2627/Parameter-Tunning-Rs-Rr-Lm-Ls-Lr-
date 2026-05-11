@@ -2,11 +2,8 @@
 
 > Beside this README, refer to the Presentation for more
 
-## Table of Contents
-[toc]
-
 ## 1. Project Overview
-This repository implements the complete parameter identification algorithm for three-phase induction motors used in general purpose VFDs. Accurate motor parameters are critical for high-performance vector control (both FVC and SVC) and V/F control.
+This repository implements the complete parameter identification algorithm by driving inverter for three-phase induction motors. Accurate motor parameters are critical for high-performance vector control (both FVC and SVC) and V/F control.
 
 ## 2. VFD Control Algorithms
 The general purpose VFD supports four main control algorithms:
